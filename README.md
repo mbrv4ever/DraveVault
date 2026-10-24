@@ -2,6 +2,12 @@
 
 Lokale, versleutelde wachtwoord- en notitiekluis.
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DraveVault](https://dravenlock.nl/video/DraveVault.jpg)](https://dravenlock.nl/video/DraveVault.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveVault.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Systeem en beveiliging · versie 0.1.2*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
